@@ -11,6 +11,7 @@ Source-Url: https://github.com/ncdc/openshift-foreman-cartridge/archive/master.z
 Vendor: David Dollar
 Categories:
   - embedded
+  - plugin
   - domain_scope
 Website: https://github.com/ncdc/openshift-foreman-cartridge
 Provides:
